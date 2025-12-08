@@ -5,6 +5,6 @@
 3. You can find the resources in the rsc folder.
 4. You can find the source codes in the src folder.
 5. You can find the players' scores in the leaderboard.txt file.
-5. Open the folder using an IDE, preferably IntelliJ.
+5. Open the folder using JGRASP only.
 6. Run the GameWindow.java to start the game.
 7. Enjoy! :>
