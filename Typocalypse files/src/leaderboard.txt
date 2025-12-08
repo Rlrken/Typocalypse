@@ -1,0 +1,2 @@
+PlayerName,WPM,CompletedSentences,Minute(s)Survived
+BKNKKN,52,1,1.20
